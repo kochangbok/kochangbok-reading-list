@@ -1,0 +1,12 @@
+.DS_Store
+.vercel
+.env.local
+.omx/
+.superset/config.local.json
+.pytest_cache/
+__pycache__/
+temp_cache/
+
+.omx
+
+.superset
